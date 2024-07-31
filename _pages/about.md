@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+ 
+
 *Hi! This is Ma, Qi's Homepage!*
 
 *你好！这里是马骐的个人主页！*
@@ -29,8 +31,8 @@ Education
 
 Contact
 ====
-<details>
-  <summary>Email </summary>
+
+### Email
   
 * qi.ma@rutgers.edu
   
@@ -38,25 +40,18 @@ Contact
   
 * mq_luojia@whu.edu.cn
   
-</details> 
 
-<details>
-  <summary>
-    Social Media
-  </summary>
+###    Social Media
+
 
 * Wechat: maqi_math
   
 * QQ:2524402517
   
-</details>
 
 Honors and awards
 =====
-<details>
-<summary>
-  In Wuhan University:
-</summary>  
+###  In Wuhan University:
 
 * Chinese Mathematical Competition, No.11 in the final round. 2023 May
 
