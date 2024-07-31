@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ma Qi / homepage"
+title                    : "Ma, Qi / Homepage"
 title_separator          : "-"
 name                     : &name "Ma, Qi"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : " 马骐"
+  name             : "Qi Ma 马骐"
   pronouns         : # example: "she/her"  
   bio              : "PhD in Mathematics"
   location         : "New Jewsey, USA"
@@ -72,6 +72,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+  wechat           : "maqi_math"
 
 
 # Site Settings
