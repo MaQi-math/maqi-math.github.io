@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Ma Qi's Homepage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-*Hi! Welcome to Ma, Qi's Homepage!*
+*Hi! This is Ma, Qi's Homepage!*
 
 *你好！这里是马骐的个人主页！*
 
