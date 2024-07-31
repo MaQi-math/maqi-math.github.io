@@ -21,7 +21,7 @@ repository               : "https://maqi-math.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Qi Ma 马骐"
   pronouns         : # example: "she/her"  
   bio              : "PhD in Mathematics"
@@ -72,7 +72,6 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-  wechat           : "maqi_math"
 
 
 # Site Settings
