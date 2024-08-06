@@ -2,3 +2,5 @@
 main:
   - title: "NOTEs"
     url: /Notes/
+  - title: "Miscellaneous"
+    url: /Misc/
