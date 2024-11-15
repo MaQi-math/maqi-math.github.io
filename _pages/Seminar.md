@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Seminar"
 permalink: /Seminar/
 author_profile: false
