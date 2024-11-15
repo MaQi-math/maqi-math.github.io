@@ -9,10 +9,8 @@ author_profile: false
 
 Grad Analysis $\nabla$ Seminar is a graduate seminar at Rutgers University, Department of Mathematics, Orgnised by Qi Ma since Nov. 2024.
 
-Those who wish to receive e-mails about latest information may subscribe to our mail-list by sending "Subscribe" 
+Those who wish to receive e-mails for latest information of the seminar may subscribe to our mail-list by sending "Subscribe" 
 to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@rutgers.edu>.
-
-The Talks will also be listed as follows:
 
 ### 2024 Nov.18 , Speaker: **Aprameya Girish Hebbar**
 **Title: Pseudo-differential operators and regularity for elliptic PDEs with smooth coefficients.**
@@ -20,7 +18,7 @@ The Talks will also be listed as follows:
 Abstract: We will start by introducing the Kohn-Nirenberg symbols. We will then introduce Pseudodifferential operators (PsiDO) which enlarges the class of differential operators. We will then study the action of the PsiDOs on Schwartz functions and tempered distributions which allow us to understand certain smoothing properties. Then we will construct elliptic parametrix for elliptic PsiDOs which will in particular show regularity for any elliptic PDE with smooth coefficients, including Sobolev regularity for PDEs in the same class.
 
 
-### 2024 Nov.11 , Speaker: **Baizhi Chu**
+### 2024 Nov.11 , Speaker: **Baozhi Chu**
   
     
   **Title: Liouville theorems for second order conformally invariant equations and their applications** 
