@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Seminar"
 permalink: /Seminar/
 author_profile: false
