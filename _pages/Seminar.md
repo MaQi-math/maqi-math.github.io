@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: Talk
 title: "Seminar"
 permalink: /Seminar/
 author_profile: false
@@ -13,9 +13,9 @@ Those who wish to receive e-mails for latest information of the seminar may subs
 to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@rutgers.edu>.
 
 ### 2024 Nov.25 , Speaker: **[Ryan McGowan](https://sites.google.com/view/ryanmcgowan/home)**
-**Title: Regularity Theory of Energy Minimizing Maps between Riemannian Manifolds**
+**Title: Regularity Theory of Energy Minimizing Maps between Riemannian Manifolds**
 
-Abstract: By analysing the Dirichlet energy of harmonic functions, one can apply variational methods to get regularity of solutions even from weak solutions. However, in the case of harmonic maps, i.e. maps onto Riemannian manifolds, the situation is decidedly different as one has to contend with the geometry of the target. In this talk, we examine harmonic maps and elucidate how a result due to Schoen and Uhlenbeck gives us analogous regularity results.
+Abstract: By analysing the Dirichlet energy of harmonic functions, one can apply variational methods to get regularity of solutions even from weak solutions. However, in the case of harmonic maps, i.e. maps onto Riemannian manifolds, the situation isdecidedly different as one has to contend with the geometry of the target. In this talk, we examine harmonic maps and elucidate how a result due to Schoen and Uhlenbeck gives us analogous regularity results.
 
 ### 2024 Nov.18 , Speaker: **[Aprameya Girish Hebbar](https://sites.google.com/view/gh-aprameya/)**
 **Title: Pseudo-differential operators and regularity for elliptic PDEs with smooth coefficients.**
