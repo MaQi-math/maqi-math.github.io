@@ -12,7 +12,7 @@ Grad Analysis $\nabla$ Seminar is a graduate seminar at Rutgers University, Depa
 Those who wish to receive e-mails for latest information of the seminar may subscribe to our mail-list by sending "Subscribe" 
 to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@rutgers.edu>.
 
-### 2024 Nov.25 , Speaker: **[Ryan McGowan](https://sites.google.com/view/ryanmcgowan/home)**
+### 2024 Nov.25 , Speaker: **Ryan McGowan**
 
 **Title: Regularity Theory of Energy Minimizing Maps between Riemannian Manifolds**
 
