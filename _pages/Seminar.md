@@ -12,6 +12,13 @@ Grad Analysis $\nabla$ Seminar is a graduate seminar at Rutgers University, Depa
 Those who wish to receive e-mails for latest information of the seminar may subscribe to our mail-list by sending "Subscribe" 
 to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@rutgers.edu>.
 
+### 2024 Dec.02 , Speaker: Yuan Gao
+
+**Title：Infinitely many bubble solutions for the prescribed scalar curvature problem on $\mathbb{S}^N$**
+
+Abstract：The prescribed scalar curvature problem on $\mathbb{S}^n$  asks if one can find a conformally invariant metric such that the curvature becomes a fixed smooth function. In the case that the given function is positive, rotationally symmetric and has a local maximum point between the poles, one can construct infinitely many non-radial positive solutions to this problem by applying Lyapunov-Schmidt reduction arguments. The energy of these solutions can be made arbitrarily large.
+
+
 ### 2024 Nov.25 , Speaker: [Ryan McGowan](https://sites.google.com/view/ryanmcgowan/home)
 
 **Title: Regularity Theory of Energy Minimizing Maps between Riemannian Manifolds**
