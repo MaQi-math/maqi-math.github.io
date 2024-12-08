@@ -7,10 +7,16 @@ author_profile: false
 
 ## Grad Analysis Seminar at Rutgers University
 
-Grad Analysis $\nabla$ Seminar is a graduate seminar at Rutgers University, Department of Mathematics, Orgnised by Qi Ma since Nov. 2024.
+Grad Analysis $\nabla$ Seminar is a graduate seminar at Rutgers University, Department of Mathematics, Orgnized by Qi Ma since Nov. 2024.
 
 Those who wish to receive e-mails for latest information of the seminar may subscribe to our mail-list by sending "Subscribe" 
 to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@rutgers.edu>.
+
+### 2024 Dec.09 , Speaker: Anupam Nayak
+
+**Title：Minimizers for the Area Functional**
+
+Abstract：The area functional is of linear growth in the gradient, so a natural space in which to pose the corresponding minimization problem is the W^1,1 Sobolev space. As it turns out, this space is too small, and we should instead consider the larger space of BV functions, and then extend our area functional to this space. I'll explain what this means, and state some results about structure of BV functions and their singularities that help us study this extended problem.
 
 ### 2024 Dec.02 , Speaker: Yuan Gao
 
