@@ -2,7 +2,7 @@
 layout: archive
 title: "Notes"
 permalink: /Notes/
-author_profile: true
+author_profile: false
 ---
 
 <details>
@@ -13,7 +13,7 @@ This is my own solution to the exercises in the book of
 <i>Partial Differential Equation 2nd Edition</i> 
 by L.C.Evans.
 
-<b>Chapter 5</b> [Sobolev Spaces](../files/PDE_Homework_Evans.pdf)
+Chapter 5 [Sobolev Spaces](../files/PDE_Homework_Evans.pdf)
 </details>
 
 (remain to be uploaded)
