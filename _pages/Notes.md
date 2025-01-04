@@ -5,16 +5,11 @@ permalink: /Notes/
 author_profile: false
 ---
 
-<details>
-<summary> 
-  <b>Solutions to PDE Evans</b>
-</summary>
+### Solutions to PDE Evans
 This is my own solution to the exercises in the book of
-<i>Partial Differential Equation 2nd Edition</i> 
+*Partial Differential Equation 2nd Edition*
 by L.C.Evans.
 
-<b>Chapter 5</b> [Sobolev Spaces](../files/PDE_Homework_Evans.pdf)
-
-</details>
+* **Chapter 5** [Sobolev Spaces](../files/PDE_Homework_Evans.pdf)
 
 (remain to be uploaded)
