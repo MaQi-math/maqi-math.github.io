@@ -4,5 +4,7 @@ main:
     url: /Seminar/
   - title: "NOTEs"
     url: /Notes/
+  - title: "Blog Posts"
+    url: /year-archive/
   - title: "Miscellaneous"
     url: /Misc/
