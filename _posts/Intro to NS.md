@@ -1,8 +1,9 @@
 ---
 title: 'Introduction to Navier-Stokes Equations'
-date: 2024-12-25
-permalink: /posts/2024/12/intro-NS/
-tags: - Navier-Stokes eqn
+date: 2024-12-31
+permalink: /posts/2024/12/Intro-NS-eqn/
+tags:
+  - NS-eqn
 ---
 
 Navier-Stokes equations describe the viscous imcompressible flow. It is a PDE system taking the following form:
