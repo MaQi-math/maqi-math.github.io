@@ -12,6 +12,12 @@ Grad Analysis $\nabla$ Seminar is a graduate seminar at Rutgers University, Depa
 Those who wish to receive e-mails for latest information of the seminar may subscribe to our mail-list by sending "Subscribe" 
 to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@rutgers.edu>.
 
+### 2024 Jan.24 , Speaker: [Lawrence Frolov](https://sites.math.rutgers.edu/~laf230/)
+
+**Title：Must there be a boundary condition?**
+
+Abstract：When solving parabolic/hyperbolic evolution equations in some region \Omega of \mathbb{R}^n, we are typically equipped with two things: initial data which holds at t=0 and a boundary condition which holds for all t>0. It's no surprise that we need initial data to solve for the evolution. The purpose of this talk is to ask: must there be a boundary condition? Given a one-parameter family of operators W(t):L^2(\Omega) to L^2(\Omega) with W(t)\psi satisfying the evolution equation in \Omega for all \psi, can we say that W(t)\psi must satisfy a boundary condition for all t>0? Does it even make sense to ask this question, given that these are L^2 functions and the boundary condition takes place on a measure zero subset of \Omega? In this talk we will answer this question and more for certain linear evolution equations motivated by quantum mechanics.
+
 ### 2024 Dec.09 , Speaker: Anupam Nayak
 
 **Title：Minimizers for the Area Functional**
