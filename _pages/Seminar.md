@@ -12,7 +12,14 @@ Grad Analysis $\nabla$ Seminar is a graduate seminar at Rutgers University, Depa
 Those who wish to receive e-mails for latest information of the seminar may subscribe to our mail-list by sending "Subscribe" 
 to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@rutgers.edu>.
 
-### 2024 Jan.24 , Speaker: [Lawrence Frolov](https://sites.math.rutgers.edu/~laf230/)
+### 2025 Jan.31 , Speaker: [Qi Ma](https://maqi-math.github.io/)
+
+**Title: Introduction to Sationary Navier-Stokes equation and Leray's Theory.**
+
+Abstract: Navier-Stokes Equation describes the flow of imcompressible vicous fluid. In this talk, I will introduce the stationary Navier-Stokes equation and some classical work in the study of Navier Stokes equation, such as Helmoholtz decomposition, Leray-Schauder Theorem, and invading domain method. I will try to prove some basic existence theorems from Leray's Thm. Some recent results and open problems will also be presented if time permitted.
+
+
+### 2025 Jan.24 , Speaker: [Lawrence Frolov](https://sites.math.rutgers.edu/~laf230/)
 
 **Title：Must there be a boundary condition?**
 
