@@ -12,6 +12,18 @@ Grad Analysis $\nabla$ Seminar is a graduate seminar at Rutgers University, Depa
 Those who wish to receive e-mails for latest information of the seminar may subscribe to our mail-list by sending "Subscribe" 
 to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@rutgers.edu>.
 
+### 2025 Feb.14 , Speaker: [Ryan McGowan](https://sites.google.com/view/ryanmcgowan/home)
+
+**Title: Generalising the Riemann Mapping Theorem to Several Complex Variables.**
+
+Abstract: The Riemann Mapping Theorem is a fundamental result of the theory of one complex variable that classifies all simply connected domains up to biholomorphism. However, once one moves to just two complex variables, it is a famous result due to Poincaré that there cannot exist a biholomorphism between the unit ball and the unit polydisc. In this talk, we will describe some notions specific to several complex variables and introduce the Caratheodory and Kobayashi metrics. These distance-decreasing metrics, as we shall see, allow us to "measure" the failure of the Riemann Mapping Theorem. To finish, we will look at some generalisations of the mapping theorem to the higher dimensional setting.
+
+### 2025 Feb.07 , Speaker: [Sam Wallace](https://sites.math.rutgers.edu/~stw77/)
+
+**Title: Compactness and Limits of Energy for Origami**
+
+Abstract: How does material choice affect the work needed to fold origami? In this talk, I'll present the basic modeling for elastic materials, and the progress I've made towards a Gamma convergence result. I'll show some theorems and open problems in my project. This talk will show some commonalities and differences between variational and classical PDE methods, and review some BV theory and GMT in service of the problem.
+
 ### 2025 Jan.31 , Speaker: [Qi Ma](https://maqi-math.github.io/)
 
 **Title: Introduction to Sationary Navier-Stokes equation and Leray's Theory.**
