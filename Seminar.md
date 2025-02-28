@@ -8,4 +8,4 @@ mathjax: true
 
 Seminar organised by me:
 ---
-Graduate $\nabla$ [Analysis Seminar](_pages/NablaSeminar.md) at Rutgers University
+Graduate $\nabla$ [Analysis Seminar](/_pages/NablaSeminar.md) at Rutgers University
