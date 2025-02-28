@@ -4,7 +4,7 @@ title: "Home"
 ---
 <div class="home-container">
     <div class="profile-section">
-        <img src="your-photo.jpg" alt="Your Name" class="profile-img">
+        <img src="files/profile.jpg" alt="Your Name" class="profile-img">
         <div class="address">
             <p>Hill Center 605</p>
             <p>110 Frelinghu Road</p>
@@ -12,9 +12,55 @@ title: "Home"
         </div>
     </div>
     <div class="content-section">
-        <h1>Qi Ma (马 骐)</h1>
-        <p>Welcome to my Personal Website！</p>
-        <p>I am a Ph.D. student of Mathematics</p>
+        <div class="section">
+        <p><em>Hi! This is Ma, Qi's Homepage!</em></p>
+        <p><em>你好！这里是马骐的个人主页！</em></p>
+        <p><em>Bounjour! C'est la page d'accueil personelle de Ma, Qi!</em></p>
+    </div>
+
+    <div class="section">
+        <h2>Bio</h2>
+        <p>I am currently a PhD student at Department of Mathematics, Rutgers University. My researches focus on PDE and analysis under the supervision of Mr. Yanyan Li.</p>
+        <p>Find CV <a href="../files/cv.pdf">here</a>.</p>
+        <p>I am also interested in the topics of functional analysis and geometric analysis.</p>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        <ul>
+            <li>2020 Sept-2023 Jun, Wuhan University, Bachelor of Science. <a href="../files/Transcript_Final.pdf">Transcript</a></li>
+            <li>2023 Sept-2024 Jun, Université Toulouse III, Master 1 of Mathematics. <a href="../files/M1.pdf">Transcript</a></li>
+            <li>2024 Sept-Now, Rutgers University, PhD</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Contact</h2>
+        <h3>Email</h3>
+        <ul class="contact-info">
+            <li><a href="mailto:qi.ma@rutgers.edu">qi.ma@rutgers.edu</a></li>
+            <li><a href="mailto:ma.qi.math@gmail.com">ma.qi.math@gmail.com</a></li>
+            <li><a href="mailto:mq_luojia@whu.edu.cn">mq_luojia@whu.edu.cn</a></li>
+        </ul>
+        <h3>Social Media</h3>
+        <ul class="contact-info">
+            <li>Wechat: maqi_math</li>
+            <li>QQ: 2524402517</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Honors and Awards</h2>
+        <h3>In Wuhan University:</h3>
+        <ul>
+            <li>Chinese Mathematical Competition, No.11 in the final round. 2023 May</li>
+            <li>St.Yau's Mathematical Competition, Excellent Prize in PDE and analysis. 2022 Aug, 2023 May</li>
+            <li>Laureate: National Fellowship. 2022 Oct.</li>
+            <li>Laureate: YingNuo Fellowship for Hongyi Honor Student. 2023 Oct</li>
+            <li>Laureate: Wuhan University Outstanding Graduates. 2024 Jun</li>
+            <li>Laureate: WHU Excellent Students Fellowship, 2021 Oct, 2022 Oct, 2023 Oct</li>
+        </ul>
+    </div>
     </div>
 </div>
 
@@ -53,5 +99,18 @@ title: "Home"
         font-size: 1.2em;
         color: #666;
         margin: 5px 0;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    .section {
+        margin-bottom: 30px;
+    }
+    .section h2 {
+        border-bottom: 2px solid #333;
+        padding-bottom: 5px;
+    }
+    .contact-info {
+        margin-left: 20px;
     }
 </style>
