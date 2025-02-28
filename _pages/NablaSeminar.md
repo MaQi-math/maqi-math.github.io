@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "Seminar"
+title: "Nabla Seminar"
 permalink: /Seminar/
+layout: page
 ---
 
 ## Grad Analysis Seminar at Rutgers University
