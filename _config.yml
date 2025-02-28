@@ -6,6 +6,9 @@ lang: "en, cn"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
