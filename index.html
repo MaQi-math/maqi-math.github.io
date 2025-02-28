@@ -2,9 +2,45 @@
 layout: default
 title: "Home"
 ---
+<div class="home-container">
+    <img src="your-photo.jpg" alt="Your Name" class="profile-img">
+    <h1>你的名字</h1>
+    <p>欢迎来到我的个人主页！</p>
+    <p>我是一名[你的职业/身份]，专注于[你的领域]。</p>
+    <div class="address">
+        <p>地址行 1</p>
+        <p>地址行 2</p>
+        <p>地址行 3</p>
+    </div>
+</div>
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
+<style>
+    .home-container {
+        text-align: center;
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+    .profile-img {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        object-fit: cover;
+        margin-bottom: 20px;
+    }
+    h1 {
+        font-size: 2.5em;
+        margin: 10px 0;
+        color: #333;
+    }
+    p {
+        font-size: 1.2em;
+        color: #666;
+        margin: 5px 0;
+    }
+    .address {
+        margin-top: 20px;
+        font-size: 1.1em;
+        color: #444;
+    }
+</style>
