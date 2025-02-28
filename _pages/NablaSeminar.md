@@ -1,7 +1,8 @@
 ---
 title: "Nabla Seminar"
-permalink: /Seminar/
+permalink: /nablaseminar/
 layout: page
+mathjax: true
 ---
 
 ## Grad Analysis Seminar at Rutgers University
@@ -10,6 +11,18 @@ Grad Analysis $\nabla$ Seminar is a graduate seminar at Rutgers University, Depa
 
 Those who wish to receive e-mails for latest information of the seminar may subscribe to our mail-list by sending "Subscribe" 
 to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@rutgers.edu>.
+
+### 2025 Feb.28 , Speaker: [Anupam Nayak](https://math.rutgers.edu/people/department-directory/detail/344-department-directory/2176-nayak-anupam)
+
+**Title: Minimizers for the Area Functional (continued)**
+
+Abstract: The area functional is of linear growth in the gradient, so (cf. my previous talk) the natural space to pose the corresponding minimization problem is BV. We'll now try to show that this minimization problem is actually well posed by proving the lower semicontinuity theorem by Ambrosio-Dal Maso.
+
+### 2025 Feb.21 , Speaker: Owen Drummond
+
+**Title: Curvature, Stability, and Scalar Rigidity in Minimal Surface Theory.**
+
+Abstract: This talk will explore the interplay between energy estimates, curvature bounds, and rigidity results for minimal surfaces. The starting point will be Bernstein's theorem, which provides sufficient condition for a minimal graph of a function in $R^3$ to be a flat plane. Then, we will examine the relationship between energy bounds and curvature, including a key theorem of Schoen and Choi, which provide critical analytic control over the geometry of minimal surfaces. Building on this foundation, we will discuss Daniel Stern’s recent work, which reframes stability in terms of harmonic maps and provides a novel perspective on scalar curvature and minimal surface analysis. Finally, we will examine the famous theorem of Schoen and Yau, which reveals topological constraints on stable minimal surfaces. We will compare two distinct proofs of this theorem: one using the stability inequality and the other relying purely on Stern’s harmonic map framework. Together, these results highlight the deep connections between stability, curvature, and the analytic methods that underpin our understanding of minimal surfaces.
 
 ### 2025 Feb.14 , Speaker: [Ryan McGowan](https://sites.google.com/view/ryanmcgowan/home)
 
