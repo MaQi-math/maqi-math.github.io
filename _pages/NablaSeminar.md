@@ -4,6 +4,7 @@ permalink: /nablaseminar/
 layout: page
 mathjax: true
 ---
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js"></script>
 
 ## Grad Analysis Seminar at Rutgers University
 
