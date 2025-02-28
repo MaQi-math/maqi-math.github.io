@@ -1,8 +1,8 @@
 title: "Blog Title"
-author: "Blog Author"
+author: "Qi Ma"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
-lang: "en"
+lang: "en, cn"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
