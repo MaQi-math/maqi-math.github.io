@@ -24,28 +24,14 @@ Grad Analysis $\nabla$ Seminar is a graduate seminar at Rutgers University, Depa
 Those who wish to receive e-mails for latest information of the seminar may subscribe to our mail-list by sending "Subscribe" 
 to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@rutgers.edu>.
 
+
 <div class="seminar-card">
-<a>
-February 13, 2025, Thursday,  3:50-4:50pm, Hill 705</a>
-
-<p>
-<b>
-Speaker: Pin Yu</b>
-Tsinghua University
-<p><b>
-Title:
-</b>
- Constructing characteristic data for Euler equations<b><p>
-Abstract: 
-</b>  Given two intersecting hypersurfaces in the $3+1$ dimensional Galilean spacetime under the assumption that each of them is transversal to the all time slices, we discuss how to construct all possible characteristic initial data for three dimensional compressible Euler equations posed on these two hypersurfaces. 
-
-  </div>
-
 ### 2025 Feb.28 , Speaker: [Anupam Nayak](https://math.rutgers.edu/people/department-directory/detail/344-department-directory/2176-nayak-anupam)
 
 **Title: Minimizers for the Area Functional (continued)**
 
 Abstract: The area functional is of linear growth in the gradient, so (cf. my previous talk) the natural space to pose the corresponding minimization problem is BV. We'll now try to show that this minimization problem is actually well posed by proving the lower semicontinuity theorem by Ambrosio-Dal Maso.
+</div>
 
 ### 2025 Feb.21 , Speaker: Owen Drummond
 
