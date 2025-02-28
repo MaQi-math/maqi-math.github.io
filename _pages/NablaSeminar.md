@@ -5,6 +5,17 @@ layout: page
 mathjax: true
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js"></script>
+<style>
+    .seminar-card {
+        background-color: white;
+        border: 1px solid #ddd;
+        padding: 1rem;
+        margin-bottom: 1rem;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+</style>
+
 
 ## Grad Analysis Seminar at Rutgers University
 
@@ -12,6 +23,23 @@ Grad Analysis $\nabla$ Seminar is a graduate seminar at Rutgers University, Depa
 
 Those who wish to receive e-mails for latest information of the seminar may subscribe to our mail-list by sending "Subscribe" 
 to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@rutgers.edu>.
+
+<div class="seminar-card">
+<a>
+February 13, 2025, Thursday,  3:50-4:50pm, Hill 705</a>
+
+<p>
+<b>
+Speaker: Pin Yu</b>
+Tsinghua University
+<p><b>
+Title:
+</b>
+ Constructing characteristic data for Euler equations<b><p>
+Abstract: 
+</b>  Given two intersecting hypersurfaces in the $3+1$ dimensional Galilean spacetime under the assumption that each of them is transversal to the all time slices, we discuss how to construct all possible characteristic initial data for three dimensional compressible Euler equations posed on these two hypersurfaces. 
+
+  </div>
 
 ### 2025 Feb.28 , Speaker: [Anupam Nayak](https://math.rutgers.edu/people/department-directory/detail/344-department-directory/2176-nayak-anupam)
 
