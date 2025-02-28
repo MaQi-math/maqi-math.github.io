@@ -1,7 +1,16 @@
 ---
 layout: default
 ---
+
 <article>
-  <header><h1><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1></header>
+  <header>
+    <h1><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1>
+  </header>
+
+  <!-- 动态加载 MathJax -->
+  {% if page.mathjax %}
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js"></script>
+  {% endif %}
+
   {{ content }}
 </article>
