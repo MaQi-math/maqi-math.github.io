@@ -28,3 +28,6 @@ comments:
 
 plugins:
  - jekyll-feed
+
+ include:
+ - _pages
