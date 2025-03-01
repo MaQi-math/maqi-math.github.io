@@ -3,12 +3,43 @@ layout: default
 ---
 
 <article>
+  <!-- 文章元信息 -->
   {% include meta.html post=page %}
+
+  <!-- 文章内容 -->
   {{ content }}
-  {% if page.comments != false and site.comments.isso or site.comments.disqus %}
+
+  <!-- 评论系统 -->
+  {% if page.comments != false %}
     <hr>
-    {% if site.comments.isso_domain %}<div id="isso-thread"></div>{% endif %}
-    {% if site.comments.disqus_shortname %}<div id="disqus_thread"></div>{% endif %}
+    
+    <!-- Isso 评论 -->
+    {% if site.comments.isso_domain %}
+      <div id="isso-thread"></div>
+    {% endif %}
+
+    <!-- Disqus 评论 -->
+    {% if site.comments.disqus_shortname %}
+      <div id="disqus_thread"></div>
+    {% endif %}
+
+    <!-- Valine 评论 -->
+    {% if site.valine.app_id and site.valine.app_key %}
+      <div id="vcomments"></div>
+      <script src="//cdn.jsdelivr.net/npm/valine/dist/Valine.min.js"></script>
+      <script>
+        new Valine({
+          el: '#vcomments',
+          appId: '{{ site.valine.app_id }}',      // 从 _config.yml 中读取 App ID
+          appKey: '{{ site.valine.app_key }}',    // 从 _config.yml 中读取 App Key
+          placeholder: '{{ site.valine.placeholder }}', // 评论框占位符
+          avatar: '{{ site.valine.avatar }}',    // 评论者头像样式
+          pageSize: {{ site.valine.page_size }}, // 每页显示的评论数量
+          lang: '{{ site.valine.lang }}',        // 语言
+        });
+      </script>
+    {% endif %}
+
     <noscript>Please enable JavaScript to view comments.</noscript>
   {% endif %}
 </article>

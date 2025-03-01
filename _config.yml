@@ -8,31 +8,39 @@ date_format: "%B %d, %Y"
 
 markdown: kramdown
 kramdown:
-  math_engine: katex
-# Layout
+  math_engine: katex  # 使用 KaTeX 作为数学公式渲染引擎
+katex: true           # 全局启用 KaTeX
 
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+# Layout
+show_excerpts: true   # 在首页显示文章摘要
+show_frame: true      # 添加灰色边框
+show_sidebar: false   # 不显示侧边栏
+minimal: false        # 不使用深色标题
 
 # Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
+navigation:           # 导航菜单
   - {file: "Seminar.md"}
   - {file: "Blog.md"}
   - {file: "Notes.md"}
   - {file: "Misc.md"}
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+external:             # 页脚社交链接
   - {title: Mail, icon: envelope, url: "qi.ma@rutgers.edu"}
 
 comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+#  disqus_shortname: ""    # 如果需要 Disqus 评论，填写 Disqus shortname
+#  isso_domain: ""         # 如果需要 Isso 评论，填写 Isso 域名
 
 plugins:
- - jekyll-feed
+  - jekyll-feed        # 启用 RSS 订阅功能
 
 include:
-  - _pages
+  - _pages             # 包含 _pages 目录
+
+valine:
+  app_id: SFQBxRyCGBTmdz1T8FFXpEHC-gzGzoHsz       # 你的 LeanCloud App ID
+  app_key: 2NO8H0RSbANXtdhGYhnBjU2K     # 你的 LeanCloud App Key
+  placeholder: Welcome to comment!   # 评论框占位符
+  avatar: mm                # 评论者头像样式
+  page_size: 10             # 每页显示的评论数量
+  lang: zh-CN               # 语言（默认为中文）
