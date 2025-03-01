@@ -19,8 +19,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "README.md"}
   - {file: "Seminar.md"}
+  - {file: "Blog.md"}
+  - {file: "Notes.md"}
+  - {flie: "Miscellaneous.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "qi.ma@rutgers.edu"}
