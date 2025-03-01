@@ -15,6 +15,11 @@
     <link rel="stylesheet" href="{{ '/assets/css/index.css' | relative_url }}">
   {% endif %}
 
+  <!-- 加载 RSS 订阅 -->
+  {% if site.plugins contains 'jekyll-feed' %}
+    <link rel="alternate" href="{{ site.feed.path | default: '/feed.xml' | relative_url }}" type="application/atom+xml" title="{{ site.title }}">
+  {% endif %}
+
   <!-- 加载 KaTeX -->
   {% if page.katex or site.katex %}
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
@@ -30,8 +35,18 @@
     </script>
   {% endif %}
 
-  <!-- 加载 Valine -->
-  {% if site.valine.app_id and site.valine.app_key %}
+  <!-- 加载 Disqus 评论 -->
+  {% if site.comments.disqus_shortname and page.layout == 'post' %}
+    <script src="//{{ site.comments.disqus_shortname }}.disqus.com/embed.js" async></script>
+  {% endif %}
+
+  <!-- 加载 Isso 评论 -->
+  {% if site.comments.isso_domain and page.layout == 'post' %}
+    <script data-isso="http://{{ site.comments.isso_domain }}" src="//{{ site.comments.isso_domain }}/js/embed.min.js"></script>
+  {% endif %}
+
+  <!-- 加载 Valine 评论 -->
+  {% if site.valine.app_id and site.valine.app_key and page.layout == 'post' %}
     <script src="//cdn.jsdelivr.net/npm/valine/dist/Valine.min.js"></script>
     <script>
       new Valine({
@@ -47,7 +62,31 @@
   {% endif %}
 </head>
 <body>
-  <!-- 页面内容 -->
+  <!-- 侧边栏 -->
+  {% if site.show_sidebar or site.sidebar %}
+    {% include sidebar.html %}
+  {% endif %}
+
+  <!-- 导航菜单 -->
+  <header>
+    <a href="{{ '/' | relative_url }}" class="title">{{ site.title | escape }}</a>
+    {% if site.navigation %}
+      {% assign pages = site.navigation %}
+    {% else %}
+      {% assign pages = site.pages | where_exp: 'item', 'item.title and item.sitemap != false' | sort: 'order' %}
+    {% endif %}
+    {% include menu.html menu=pages %}
+  </header>
+
+  <!-- 内容 -->
   {{ content }}
+
+  <!-- 页脚 -->
+  {% if site.external %}
+    <footer>
+      <div>{{ site.description | default: site.title }}</div>
+      {% include menu.html menu=site.external %}
+    </footer>
+  {% endif %}
 </body>
 </html>
