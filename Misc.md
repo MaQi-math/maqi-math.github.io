@@ -1,8 +1,7 @@
 ---
-layout: archive
-title: "Miscellaneous"
+layout: default
+title: "Misc"
 permalink: /Misc/
-author_profile: true
 ---
 
 ### My advice for applying French mathematical master: 
