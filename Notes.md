@@ -1,8 +1,7 @@
 ---
-layout: archive
+layout: default
 title: "Notes"
 permalink: /Notes/
-author_profile: false
 ---
 
 ### Solutions to PDE Evans
