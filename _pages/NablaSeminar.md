@@ -23,6 +23,35 @@ Grad Analysis $\nabla$ Seminar is a graduate seminar at Rutgers University, Depa
 Those who wish to receive e-mails for latest information of the seminar may subscribe to our mail-list by sending "Subscribe" 
 to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@rutgers.edu>.
 
+<div class="seminar-card">
+    <h3>2025 Apr.25 , Speaker: Owen Drummond</h3>
+    <p><strong>Title: The monotonicity formula for energy minimizing maps </strong></p>
+    <p>Abstract: In this talk, we will define energy minimizing maps and introduce key examples. Then, we will derive the associated variational formulae. A central theme of the talk will be the monotonicity formula: we will explore its significance and highlight its appearance in related geometric contexts such as minimal surfaces, mean curvature flow, and Ricci flow. We will then prove the monotonicity formula for energy minimizing maps. Finally, we will define the density function, introduce tangent maps, and discuss the role of monotone quantities in the study of regularity and singularities.</p>
+</div>
+
+<div class="seminar-card">
+    <h3>2025 Apr.18 , Speaker: Mark Vaysiberg</h3>
+    <p><strong>Title: Unique continuation for elliptic PDEs</strong></p>
+    <p>Abstract: In complex analysis we learn that if a holomorphic function is zero on a nonempty open set, then it is identically zero on its domain. The proof is due to analyticity so the same result follows for harmonic functions. As solutions to elliptic pde mimic harmonic functions, we hope that we can prove similar results. Indeed, we will look at the Garofalo Lin proof of strong unique continuation for solutions to divergence form elliptic pde with lipschitz coefficients by means of an Almgren frequency formula. Like many monotonicity formulas, this proof was then built upon to answer many questions relating to the geometric structure of solutions.</p>
+</div>
+
+<div class="seminar-card">
+    <h3>2025 Apr.11 , Speaker: <a href="https://sites.google.com/view/gh-aprameya/">Aprameya Girish Hebbar</a></h3>
+    <p><strong>Title: The Li-Yau Harnack Inequality</strong></p>
+    <p>Abstract: The Harnack inequality, in its classical form, provides a way to compare the values of the positive solution at different points. In their 1986 seminal paper, Peter Li and Shing-Tung Yau introduced a revolutionary differential form of the Harnack inequality for the heat equation on Riemannian manifolds, now known as the Li-Yau Harnack (LYH) inequality. This differential inequality is very important in geometric analysis and they crop up in Hamilton's analysis of the Ricci flow on surfaces as well. In this talk I will discuss the proof of LYH inequality first on closed manifolds, then on open subsets of \R^n and finally on a complete non-compact manifold, and will obtain classical Harnack inequality as a corollary. </p>
+</div>
+
+<div class="seminar-card">
+    <h3>2025 Apr.4 , Speaker: Junyoung Park </h3>
+    <p><strong>Title: Huisken’s theorem on the evolution of closed convex solutions under mean curvature flow </strong></p>
+    <p>Abstract: Mean curvature flow is a geometric evolution equation which deforms a given hypersurface by its mean curvature vector, and has been extensively studied in the past several decades in the hopes of understanding the long time behavior of the flow. In this talk, we discuss Huisken’s theorem which completely describes the evolution of closed convex hypersurfaces in Euclidean space. We will discuss several proofs of this classical result, and highlight the key ideas behind each method.</p>
+</div>
+
+<div class="seminar-card">
+    <h3>2025 Mar.28 , Speaker: <a href="https://sites.math.rutgers.edu/~laf230/">Lawrence Frolov</a></h3>
+    <p><strong>Title:  Elliptic Boundary Value Problems </strong></p>
+    <p>Abstract: In this talk we will study linear elliptic boundary value problems in their most general sense. We will answer questions like “what does it even for a distributional solution of Laplace psi=f to satisfy a boundary condition, when distributions may fail to have a trace!” I will also give some explicit applications of the closed graph theorem.</p>
+</div>
 
 <div class="seminar-card">
     <h3>2025 Feb.28 , Speaker: <a href="https://math.rutgers.edu/people/department-directory/detail/344-department-directory/2176-nayak-anupam">Anupam Nayak</a></h3>
