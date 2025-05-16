@@ -13,4 +13,6 @@ by L.C.Evans.
 
 * **Chapter 5** [Sobolev Spaces](../files/PDE_Homework_Evans.pdf)
 
+* **Chapter 6** [Second order Elliptic Equations](../files/Evanschapter6_solutions.pdf)
+
 (remain to be uploaded)
