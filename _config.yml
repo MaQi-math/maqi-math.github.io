@@ -6,41 +6,47 @@ lang: "en, cn"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
+# Use kramdown for Markdown rendering
 markdown: kramdown
 kramdown:
-  math_engine: null  # 禁用 kramdown 的数学渲染
-katex: true           # 全局启用 KaTeX
+  math_engine: mathjax  # Use MathJax for rendering math
 
 # Layout
-show_excerpts: true   # 在首页显示文章摘要
-show_frame: true      # 添加灰色边框
-show_sidebar: false   # 不显示侧边栏
-minimal: false        # 不使用深色标题
+show_excerpts: true   # Show excerpts on the homepage
+show_frame: true      # Add grey borders
+show_sidebar: false   # Hide the sidebar
+minimal: false        # Disable dark title
 
 # Menu
-navigation:           # 导航菜单
+navigation:
   - {file: "Seminar.md"}
   - {file: "Blog.md"}
   - {file: "Notes.md"}
   - {file: "Misc.md"}
 
-external:             # 页脚社交链接
+external:
   - {title: Mail, icon: envelope, url: "qi.ma@rutgers.edu"}
 
 comments:
-#  disqus_shortname: ""    # 如果需要 Disqus 评论，填写 Disqus shortname
-#  isso_domain: ""         # 如果需要 Isso 评论，填写 Isso 域名
+  # disqus_shortname: ""    # Uncomment if you need Disqus comments
+  # isso_domain: ""         # Uncomment if you need Isso comments
 
 plugins:
-  - jekyll-feed        # 启用 RSS 订阅功能
+  - jekyll-feed        # Enable RSS feed functionality
 
 include:
-  - _pages             # 包含 _pages 目录
+  - _pages             # Include the _pages directory
 
 valine:
-  app_id: SFQBxRyCGBTmdz1T8FFXpEHC-gzGzoHsz       # 你的 LeanCloud App ID
-  app_key: 2NO8H0RSbANXtdhGYhnBjU2K     # 你的 LeanCloud App Key
-  placeholder: Welcome to comment!   # 评论框占位符
-  avatar: mm                # 评论者头像样式
-  page_size: 10             # 每页显示的评论数量
-  lang: zh-CN               # 语言（默认为中文）
+  app_id: SFQBxRyCGBTmdz1T8FFXpEHC-gzGzoHsz       # Your LeanCloud App ID
+  app_key: 2NO8H0RSbANXtdhGYhnBjU2K     # Your LeanCloud App Key
+  placeholder: Welcome to comment!   # Comment box placeholder
+  avatar: mm                # Commenter avatar style
+  page_size: 10             # Number of comments per page
+  lang: zh-CN               # Language (default is Chinese)
+
+# Enable KaTeX (disabled, but you can set it back to true if needed)
+katex: false
+
+# MathJax Configuration
+mathjax: true  # Enable MathJax
