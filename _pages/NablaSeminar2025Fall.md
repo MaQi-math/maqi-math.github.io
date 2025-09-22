@@ -20,7 +20,7 @@ layout: page
 
 Grad Analysis $\nabla$ Seminar is a graduate seminar at Rutgers University, Department of Mathematics, Orgnized by Qi Ma since Nov. 2024.
 
-This page is for seminars held in 2025 Fall. This semester we meet regularly on Monday at 5:00 p.m. in the graduate lounge (Hill 705). We are looking for speakers, please let me, Aprameya or Anupam know if you want to give a talk.
+This page is for seminars held in 2025 Fall. This semester we meet regularly on Monday at 5:00 p.m. in the Mathematics Graduate Lounge (Hill 701). We are looking for speakers. Please let me, Aprameya or Anupam know if you want to give a talk.
 
 To see seminars in other semesters, please refer to [Nabla](../_pages/NablaSeminar.md).
 

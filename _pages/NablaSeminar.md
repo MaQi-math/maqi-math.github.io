@@ -18,7 +18,7 @@ layout: page
 
 ## Grad Analysis Seminar at Rutgers University
 
-Grad Analysis $\nabla$ Seminar is a graduate seminar at Rutgers University, Department of Mathematics, Orgnized by Qi Ma since Nov. 2024.
+Grad Analysis \(\nabla\) Seminar is a graduate seminar at Rutgers University, Department of Mathematics, Orgnized by Qi Ma since Nov. 2024.
 
 Those who wish to receive e-mails for latest information of the seminar may subscribe to our mail-list by sending "Subscribe" 
 to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@rutgers.edu>.
