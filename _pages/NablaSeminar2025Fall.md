@@ -25,7 +25,7 @@ This page is for seminars held in 2025 Fall. This semester we meet regularly on 
 To see seminars in other semesters, please refer to [Nabla](../_pages/NablaSeminar.md).
 
 <div class="seminar-card">
-    <h3>2025 Sept.29 , Speaker: Erik Bahnson</h3>
+    <h3>2025 Oct.13 , Speaker: Erik Bahnson</h3>
     <p><strong>Title: The “simple” equation for a system of interacting Bosons  </strong></p>
     <p>Abstract:  In this talk, I will discuss the “simple” equation, a non-linear integro-differential equation which has been recently studied by Ian Jauslin, Eric Carlen and Elliot Lieb. I will show an existence result. Along the way, we will discuss tools from functional analysis, including contraction semigroups, the Hille-Yosida Theorem and the Kato-Rellich Theorem. </p>
 </div>

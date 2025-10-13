@@ -26,7 +26,7 @@ to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@r
 Here is the latest information for our seminar:
 
 <div class="seminar-card">
-    <h3>2025 Sept.29 , Speaker: Erik Bahnson</h3>
+    <h3>2025 Oct.13 , Speaker: Erik Bahnson</h3>
     <p><strong>Title: The “simple” equation for a system of interacting Bosons  </strong></p>
     <p>Abstract:  In this talk, I will discuss the “simple” equation, a non-linear integro-differential equation which has been recently studied by Ian Jauslin, Eric Carlen and Elliot Lieb. I will show an existence result. Along the way, we will discuss tools from functional analysis, including contraction semigroups, the Hille-Yosida Theorem and the Kato-Rellich Theorem. </p>
 </div>
