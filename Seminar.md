@@ -7,7 +7,7 @@ layout: page
 
 Seminar organised by me:
 ---
-Graduate $\nabla$ [Analysis Seminar](/_pages/NablaSeminar.md) at Rutgers University
+Graduate $\nabla$ [Analysis Seminar](/nablaseminar/) at Rutgers University
 
 Seminars related to analysis and geometry at Rutgers University:
 ---
