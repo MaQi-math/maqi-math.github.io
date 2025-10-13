@@ -9,6 +9,27 @@ layout: default
   <!-- 文章内容 -->
   {{ content }}
 
+  <!-- 数学公式支持 (MathJax 3 with equation numbering) -->
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']],
+        processEscapes: true,
+        tags: 'ams',             // 自动编号（AMS样式）
+        tagSide: 'right',        // 编号在右侧
+        tagIndent: '0.8em',      // 缩进距离
+      },
+      options: {
+        skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+        ignoreHtmlClass: 'tex2jax_ignore',
+        processHtmlClass: 'tex2jax_process'
+      },
+      svg: { fontCache: 'global' }
+    };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
   <!-- 评论系统 -->
   {% if page.comments != false %}
     <hr>
