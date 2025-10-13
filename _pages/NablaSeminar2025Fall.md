@@ -25,6 +25,18 @@ This page is for seminars held in 2025 Fall. This semester we meet regularly on 
 To see seminars in other semesters, please refer to [Nabla](../_pages/NablaSeminar.md).
 
 <div class="seminar-card">
+    <h3>2025 Sept.29 , Speaker: Erik Bahnson</h3>
+    <p><strong>Title: The “simple” equation for a system of interacting Bosons  </strong></p>
+    <p>Abstract:  In this talk, I will discuss the “simple” equation, a non-linear integro-differential equation which has been recently studied by Ian Jauslin, Eric Carlen and Elliot Lieb. I will show an existence result. Along the way, we will discuss tools from functional analysis, including contraction semigroups, the Hille-Yosida Theorem and the Kato-Rellich Theorem. </p>
+</div>
+
+<div class="seminar-card">
+    <h3>2025 Sept.29 , Speaker: <a href="https://nilavam.github.io/">Nilava Metya</a></h3>
+    <p><strong>Title: An elementary proof of Pisier's inequality  </strong></p>
+    <p>Abstract: We'll give an elementary and constructive proof of Pisier’s inequality, which is central in the study of normed spaces and has important applications in convex geometry. Along the way, we will discuss tools of harmonic analysis.</p>
+</div>
+
+<div class="seminar-card">
     <h3>2025 Sept.22 , Speaker: Junyoung Park</h3>
     <p><strong>Title: On the interior Holder estimate for parabolic equation </strong></p>
     <p>Abstract: In this talk, I will discuss the Krylov Safanov estimates for parabolic equations. The estimate gives us an interior holder continuity of solution to parabolic equations in nondivergence form. We will prove the estimate by first establishing a weak Harnack inequality. Then by applying the Harnack inequality, we will obtain an oscillation decay which leads to the desired holder estimate. </p>

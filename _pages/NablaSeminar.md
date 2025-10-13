@@ -23,6 +23,14 @@ Grad Analysis \(\nabla\) Seminar is a graduate seminar at Rutgers University, De
 Those who wish to receive e-mails for latest information of the seminar may subscribe to our mail-list by sending "Subscribe" 
 to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@rutgers.edu>.
 
+Here is the latest information for our seminar:
+
+<div class="seminar-card">
+    <h3>2025 Sept.29 , Speaker: Erik Bahnson</h3>
+    <p><strong>Title: The “simple” equation for a system of interacting Bosons  </strong></p>
+    <p>Abstract:  In this talk, I will discuss the “simple” equation, a non-linear integro-differential equation which has been recently studied by Ian Jauslin, Eric Carlen and Elliot Lieb. I will show an existence result. Along the way, we will discuss tools from functional analysis, including contraction semigroups, the Hille-Yosida Theorem and the Kato-Rellich Theorem. </p>
+</div>
+
 To see more detailed information of our seminar, please come to the pages below:
 
 * [2025 Fall](../_pages/NablaSeminar2025Fall.md)
