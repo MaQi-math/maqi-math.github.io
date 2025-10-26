@@ -25,6 +25,18 @@ This page is for seminars held in 2025 Fall. This semester we meet regularly on 
 To see seminars in other semesters, please refer to [Nabla](../_pages/NablaSeminar.md).
 
 <div class="seminar-card">
+    <h3>2025 Oct.27 , Speaker: <a href="https://sites.google.com/view/gh-aprameya/">Aprameya Girish Hebbar</a></h3>
+    <p><strong>Title: Rotational Symmetry in Riemannian Manifolds  </strong></p>
+    <p>Abstract: In this talk, we will explore the structure of n-dimensional Riemannian manifolds admitting a smooth, effective SO(n) action by isometries, aka rotationally symmetric manifolds. We first characterize this symmetry using Killing fields. We then discuss how SO(3) and O(3) actions induce a local warped product structure for the metric in dimension 3. Finally, we will motivate Brendle's ε-symmetry and its role in the classification of 3-dimensional ancient solutions to the Ricci flow. </p>
+</div>
+
+<div class="seminar-card">
+    <h3>2025 Oct.20 , Speaker: Anupam Nayak</h3>
+    <p><strong>Title: Generic regularity of minimal surfaces  </strong></p>
+    <p>Abstract: The famous Plateau's problem asks if there is a (smooth) area minimizing hypersurface with prescribed (smooth) boundary. By the Direct Method, the existence of some (possibly unsmooth) area minimizing hypersurface is "easy".  The hard part is to then show smoothness. In ambient dimensions upto 7, one (not me!) can show smoothness, but there is a counterexample to smoothness in ambient dimension 8: The Simons cone. Are such counterexamples special, that is, can they be perturbed away generically? In ambient dimension 8 (and also in 9,10, and 11), yes! I'll sketch the proof (due to Hardt-Simon) in dimension 8 (and time permitting, also in dimension 9,10, and 11 (due to Chodosh, Mantoulidis, Schulze, and Wang)). </p>
+</div>
+
+<div class="seminar-card">
     <h3>2025 Oct.13 , Speaker: Erik Bahnson</h3>
     <p><strong>Title: The “simple” equation for a system of interacting Bosons  </strong></p>
     <p>Abstract:  In this talk, I will discuss the “simple” equation, a non-linear integro-differential equation which has been recently studied by Ian Jauslin, Eric Carlen and Elliot Lieb. I will show an existence result. Along the way, we will discuss tools from functional analysis, including contraction semigroups, the Hille-Yosida Theorem and the Kato-Rellich Theorem. </p>

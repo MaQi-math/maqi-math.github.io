@@ -2,65 +2,50 @@
 layout: default
 ---
 
+{% include meta.html post=page %}
+
+<article class="post">
+  {{ content }}
+</article>
+
+<!-- KaTeX styles -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.17.0/dist/katex.min.css">
+<style>
+  .equation-wrapper {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+    gap: 0.5em;
+    margin: 1em 0;
+  }
+  .eq-number {
+    font-style: italic;
+    color: #555;
+    padding-left: 0.5em;
+  }
+</style>
+
+<!-- KaTeX scripts -->
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.17.0/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.17.0/dist/contrib/auto-render.min.js"></script>
+
 <script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$', '$$'], ['\\[', '\\]']],
-      tags: 'all',  // enables equation numbering and \ref
-      packages: {'[+]': ['noerrors']}
-    },
-    options: {
-      renderActions: {
-        addMenu: [0, '', '']
-      }
-    }
-  };
+  document.addEventListener("DOMContentLoaded", function() {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "$$", right: "$$", display: true },
+        { left: "$", right: "$", display: false }
+      ],
+      macros: {
+        "\\p": "\\partial",
+        "\\R": "\\mathbb{R}",
+        "\\vp": "\\varphi",
+        "\\ve": "\\varepsilon",
+        "\\norm": "\\Vert #1 \\Vert",
+        "\\sprod": "\\langle #1, #2 \\rangle",
+        "\\coloneqq": "\\mathrel{\\vcenter{:}}\\mathrel{=}"
+      },
+      throwOnError: false
+    });
+  });
 </script>
-
-<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
-<body>
-  <article>
-    <!-- 文章元信息 -->
-    {% include meta.html post=page %}
-
-    <!-- 文章内容 -->
-    {{ content }}
-
-    <!-- 评论系统 -->
-    {% if page.comments != false %}
-      <hr>
-
-      <!-- Isso 评论 -->
-      {% if site.comments.isso_domain %}
-        <div id="isso-thread"></div>
-      {% endif %}
-
-      <!-- Disqus 评论 -->
-      {% if site.comments.disqus_shortname %}
-        <div id="disqus_thread"></div>
-      {% endif %}
-
-      <!-- Valine 评论 -->
-      {% if site.valine.app_id and site.valine.app_key %}
-        <div id="vcomments"></div>
-        <script src="//cdn.jsdelivr.net/npm/valine/dist/Valine.min.js"></script>
-        <script>
-          new Valine({
-            el: '#vcomments',
-            appId: '{{ site.valine.app_id }}',
-            appKey: '{{ site.valine.app_key }}',
-            placeholder: '{{ site.valine.placeholder }}',
-            avatar: '{{ site.valine.avatar }}',
-            pageSize: '{{ site.valine.page_size }}',
-            lang: '{{ site.valine.lang }}',
-          });
-        </script>
-      {% endif %}
-
-      <noscript>Please enable JavaScript to view comments.</noscript>
-    {% endif %}
-  </article>
-</body>
-</html>
