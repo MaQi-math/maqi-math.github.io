@@ -20,7 +20,6 @@ minimal: false        # Disable dark title
 # Menu
 navigation:
   - {file: "Seminar.md"}
-  - {file: "Blog.md"}
   - {file: "Notes.md"}
   - {file: "Misc.md"}
 
@@ -50,3 +49,5 @@ katex: false
 
 # MathJax Configuration
 mathjax: true  # Enable MathJax
+
+

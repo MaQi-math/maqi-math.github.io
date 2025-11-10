@@ -1,0 +1,162 @@
+---
+layout: default
+title: "主页"
+---
+
+<!-- ✅ 自动语言记忆：若未选择过语言，则记录为中文 -->
+<script>
+  if (!localStorage.getItem("lang")) {
+    localStorage.setItem("lang", "zh");
+  }
+</script>
+
+<div class="lang-switch">
+  <a href="/" onclick="localStorage.setItem('lang','en')">English</a> |
+  <a href="/cn/" onclick="localStorage.setItem('lang','zh')">中文</a>
+</div>
+
+<div class="home-container">
+    <div class="profile-section">
+        <img src="../files/profile.jpg" alt="Ma Qi" class="profile-img">
+        <div class="address">
+            <p>Hill Center 628</p>
+            <p>110 Frelinghuysen Road</p>
+            <p>Piscataway, NJ 08854, 美国</p>
+        </div>
+    </div>
+    <div class="content-section">
+        <div class="section">
+            <p><em>你好！这里是马骐的个人主页！</em></p>
+            <p><em>Hi! This is Ma Qi’s Homepage!</em></p>
+            <p><em>Bonjour ! C'est la page d'accueil personnelle de Ma, Qi !</em></p>
+        </div>
+
+        <div class="section">
+            <h2>个人简介</h2>
+            <p>我目前是美国罗格斯大学数学系的博士生在读，师从 <strong>李岩岩教授</strong>。我的研究兴趣主要集中在偏微分方程与分析方向。</p>
+            <p>点击查看 <a href="../files/cv.pdf">个人简历（CV）</a>。</p>
+            <p>此外，我也对泛函分析与几何分析方向十分感兴趣。</p>
+        </div>
+
+        <div class="section">
+            <h2>教育经历</h2>
+            <ul>
+                <li>2020年9月 – 2023年6月，武汉大学，理学学士。<a href="../files/Transcript_Final.pdf">成绩单</a></li>
+                <li>2023年9月 – 2024年6月，法国图卢兹第三大学，数学硕士一年级。<a href="../files/M1.pdf">成绩单</a></li>
+                <li>2024年9月 – 至今，美国罗格斯大学，博士在读。</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>联系方式</h2>
+            <h3>电子邮箱</h3>
+            <ul class="contact-info">
+                <li><a href="mailto:qi.ma@rutgers.edu">qi.ma@rutgers.edu</a></li>
+                <li><a href="mailto:ma.qi.math@gmail.com">ma.qi.math@gmail.com</a></li>
+            </ul>
+            <h3>社交媒体</h3>
+            <ul class="contact-info">
+                <li>Discord：ma.qi.math</li>
+                <li>微信：maqi_math</li>
+                <li>QQ：2524402517</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>荣誉与奖励</h2>
+            <h3>在武汉大学期间：</h3>
+            <ul>
+                <li>中国大学生数学竞赛全国决赛第11名（2023年5月）</li>
+                <li>丘成桐大学生数学竞赛，偏微分方程与分析优秀奖（2022年8月、2023年5月）</li>
+                <li>国家奖学金获得者（2022年10月）</li>
+                <li>“弘毅荣誉学生英诺奖学金”获得者（2023年10月）</li>
+                <li>武汉大学优秀毕业生（2024年6月）</li>
+                <li>武汉大学优秀学生奖学金（2021、2022、2023年）</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<style>
+    .home-container {
+        display: flex;
+        align-items: flex-start;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        gap: 40px;
+    }
+    .profile-section {
+        text-align: center;
+    }
+    .profile-img {
+        width: 200px;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 0;
+        margin-bottom: 20px;
+    }
+    .address {
+        font-size: 1.1em;
+        color: #444;
+    }
+    .content-section {
+        flex: 1;
+    }
+    h1 {
+        font-size: 2.5em;
+        margin: 10px 0;
+        color: #333;
+    }
+    p {
+        font-size: 1.2em;
+        color: #666;
+        margin: 5px 0;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    .section {
+        margin-bottom: 30px;
+    }
+    .section h2 {
+        border-bottom: 2px solid #333;
+        padding-bottom: 5px;
+    }
+    .contact-info {
+        margin-left: 20px;
+    }
+</style>
+
+<style>
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #121212;
+      color: #e0e0e0;
+    }
+
+    .address,
+    p,
+    li {
+      color: #e0e0e0 !important;
+    }
+
+    h1, h2, h3 {
+      color: #f5f5f5 !important;
+      border-color: #888 !important;
+    }
+
+    a {
+      color: #9ecbff;
+    }
+
+    a:hover {
+      color: #c8e1ff;
+      text-decoration: underline;
+    }
+
+    .home-container {
+      background-color: transparent;
+    }
+  }
+</style>

@@ -2,6 +2,27 @@
 layout: default
 title: "Home"
 ---
+
+<!-- ✅ 自动语言检测脚本 -->
+<script>
+  // 若未选择过语言，则根据浏览器语言判断是否跳转到中文页
+  if (!localStorage.getItem("lang")) {
+    const lang = navigator.language || navigator.userLanguage;
+    if (lang && lang.startsWith("zh")) {
+      localStorage.setItem("lang", "zh");
+      window.location.href = "/cn/";
+    } else {
+      localStorage.setItem("lang", "en");
+    }
+  }
+</script>
+
+
+<div class="lang-switch">
+  <a href="/" onclick="localStorage.setItem('lang','en')">English</a> | 
+  <a href="/cn/" onclick="localStorage.setItem('lang','zh')">中文</a>
+</div>
+
 <div class="home-container">
     <div class="profile-section">
         <img src="files/profile.jpg" alt="Your Name" class="profile-img">
@@ -114,3 +135,37 @@ title: "Home"
         margin-left: 20px;
     }
 </style>
+
+<style>
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #121212;
+      color: #e0e0e0;
+    }
+
+    .address,
+    p,
+    li {
+      color: #e0e0e0 !important;
+    }
+
+    h1, h2, h3 {
+      color: #f5f5f5 !important;
+      border-color: #888 !important;
+    }
+
+    a {
+      color: #9ecbff;
+    }
+
+    a:hover {
+      color: #c8e1ff;
+      text-decoration: underline;
+    }
+
+    .home-container {
+      background-color: transparent;
+    }
+  }
+</style>
+
