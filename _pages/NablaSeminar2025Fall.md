@@ -54,6 +54,12 @@ This page is for seminars held in 2025 Fall. This semester we meet regularly on 
 To see seminars in other semesters, please refer to [Nabla](../_pages/NablaSeminar.md).
 
 <div class="seminar-card">
+    <h3>2025 Nov.17, Speaker: <a href="https://maqi-math.github.io/">Qi Ma</a></h3>
+    <p><strong>Title:  Stationary Navier-Stokes, open problem and some results.  </strong></p>
+    <p>Abstract: Navier-Stokes equations are the key problem in hydrodynamics. In this talk, I will introduce the stationary Navier Stokes equations to you. We will consider two open problems here: Flow past an obstacle problem in 2D case, and Liouville type problem in 3D case. The recent work by M. Korobkov, K. Pileckas, and R. Russo that the D-solutions are bounded will be presented. I’ll also address some history and other results of the problem if time permits. </p>
+</div>
+
+<div class="seminar-card">
     <h3>2025 Nov.10, Speaker: Sammy Thiagarajan</h3>
     <p><strong>Title: The Bernoulli/Alt-Caffarelli Problem  </strong></p>
     <p>Abstract: The Bernoulli/Alt-Caffarelli Problem is a variation of the Laplace equation in which the energy functional includes a penalty term on the positivity set. This leads to intriguing behaviors of the free boundary—the boundary of the zero set. In this talk, we discuss the optimal regularity of minimizers, showing that they are Lipschitz. We then prove a non-degeneracy estimate and, time permitting, explore density estimates and the regularity of the free boundary. </p>
