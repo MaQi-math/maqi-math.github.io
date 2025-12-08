@@ -54,9 +54,10 @@ to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@r
 Here is the latest information for our seminar:
 
 <div class="seminar-card">
-    <h3>2025 Nov.17, Speaker: <a href="https://maqi-math.github.io/">Qi Ma</a></h3>
-    <p><strong>Title:  Stationary Navier-Stokes, open problem and some results.  </strong></p>
-    <p>Abstract: Navier-Stokes equations are the key problem in hydrodynamics. In this talk, I will introduce the stationary Navier Stokes equations to you. We will consider two open problems here: Flow past an obstacle problem in 2D case, and Liouville type problem in 3D case. The recent work by M. Korobkov, K. Pileckas, and R. Russo that the D-solutions are bounded will be presented. I’ll also address some history and other results of the problem if time permits. </p>
+    <h3>2025 Dec.8, Speaker: Mark Vaysiberg</h3>
+    <p><strong>Title:  A compactness theorem for the one phase Bernoulli problem  </strong></p>
+    <p>Abstract: Given a converging sequence of solutions to the Bernoulli problem (classical solutions, critical points of the energy functional, or even semilinear approximations) we would like to be able to pass the pde to the limit. As the energy functional is not continuous in u, the limit may apriori satisfy a more general equation. By studying the free boundary via different types of blow ups, we will succeed in obtaining compactness of solutions. 
+</p>
 </div>
 
 To see more detailed information of our seminar, please come to the pages below:

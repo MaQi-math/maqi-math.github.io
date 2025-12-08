@@ -54,6 +54,26 @@ This page is for seminars held in 2025 Fall. This semester we meet regularly on 
 To see seminars in other semesters, please refer to [Nabla](../_pages/NablaSeminar.md).
 
 <div class="seminar-card">
+    <h3>2025 Dec.8, Speaker: Mark Vaysiberg</h3>
+    <p><strong>Title:  A compactness theorem for the one phase Bernoulli problem  </strong></p>
+    <p>Abstract: Given a converging sequence of solutions to the Bernoulli problem (classical solutions, critical points of the energy functional, or even semilinear approximations) we would like to be able to pass the pde to the limit. As the energy functional is not continuous in u, the limit may apriori satisfy a more general equation. By studying the free boundary via different types of blow ups, we will succeed in obtaining compactness of solutions. 
+</p>
+</div>
+
+<div class="seminar-card">
+    <h3>2025 Dec.1, Speaker: <a href="http://rsites.google.com/view/ryanmcgowan/home">Ryan McGowan</a></h3>
+    <p><strong>Title:  Extension Phenomena in Several Complex Variables  </strong></p>
+    <p>Abstract: The Hartogs extension phenomenon shows that a holomorphic function defined on a subset of C^n may analytically continue to a larger set than the one on which it was originally defined. This behaviour highlights the differences between the analysis of functions of one complex variable and of several complex variables, and helped initially to spur interest in this field. In this talk, we will discuss this phenomenon and its relation to pseudoconvexity, as well as other pathological examples such as the Hartogs triangle. Time permitting, we will also explore the Diederich-Fornæss worm domain.</p>
+</div>
+
+<div class="seminar-card">
+    <h3>2025 Nov.24, Speaker: Qiyuan Song</a></h3>
+    <p><strong>Title:  The Differentiable Sphere Theorem and Ricci Flow  </strong></p>
+    <p>Abstract: The differentiable sphere theorem says that any closed, simply connected Riemannian manifold of dimension greater than 3 with pointwise 1/4-pinched sectional curvature(i.e. 1/4< Kmin/Kmax≤1) is diffeomorphic to a sphere. The theorem was proved by Brendle and Schoen in 2008, using Ricci flow and properties of  PIC (positive isotropic curvature).  In dimension 3, Hamilton proved that any closed, simply connected manifold with positive Ricci curvature is diffeomorphic to a sphere. In this talk I will briefly introduce Ricci flow and sketch the proof of the differentiable sphere theorem.
+</p>
+</div>
+
+<div class="seminar-card">
     <h3>2025 Nov.17, Speaker: <a href="https://maqi-math.github.io/">Qi Ma</a></h3>
     <p><strong>Title:  Stationary Navier-Stokes, open problem and some results.  </strong></p>
     <p>Abstract: Navier-Stokes equations are the key problem in hydrodynamics. In this talk, I will introduce the stationary Navier Stokes equations to you. We will consider two open problems here: Flow past an obstacle problem in 2D case, and Liouville type problem in 3D case. The recent work by M. Korobkov, K. Pileckas, and R. Russo that the D-solutions are bounded will be presented. I’ll also address some history and other results of the problem if time permits. </p>
