@@ -1,6 +1,6 @@
 ---
-title: "Nabla Seminar"
-permalink: /nablaseminar/
+title: "Nabla Seminar 2026 Spring"
+permalink: /nablaseminar2026Spring/
 layout: page
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js"></script>
@@ -44,27 +44,17 @@ layout: page
 </style>
 
 
+
 ## Grad Analysis Seminar at Rutgers University
 
-Grad Analysis \(\nabla\) Seminar is a graduate seminar at Rutgers University, Department of Mathematics, Orgnized by Qi Ma since Nov. 2024.
+Grad Analysis $\nabla$ Seminar is a graduate seminar at Rutgers University, Department of Mathematics, Orgnized by Qi Ma, Aprameya and Anupam since Nov. 2024.
 
-Those who wish to receive e-mails for latest information of the seminar may subscribe to our mail-list by sending "Subscribe" 
-to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@rutgers.edu>.
+This page is for seminars held in 2025 Fall. This semester we meet regularly on Monday at 4:00 p.m. in the Mathematics Graduate Lounge (Hill 701). We are looking for speakers. Please let me, Aprameya or Anupam know if you want to give a talk.
 
-Here is the latest information for our seminar:
+To see seminars in other semesters, please refer to [Nabla](../_pages/NablaSeminar.md).
 
 <div class="seminar-card">
     <h3>2025 Feb.2nd , Speaker: Junyoung Park</h3>
     <p><strong>Title: On Eells and Sampson theorem </strong></p>
     <p>Abstract: The idea of using heat type equations to solve problems in geometry has been proven to be an extremely powerful method. In this talk, we will discuss one of the earliest success of such approach, which is the use of harmonic map heat flow to find minimizing harmonic maps in a given homotopy class, under a geometric constraint on the target manifold.</p>
 </div>
-
-To see more detailed information of our seminar, please come to the pages below:
-
-* [2026 Spring](../_pages/NablaSeminar2026Spring.md)
-
-* [2025 Fall](../_pages/NablaSeminar2025Fall.md)
-
-* [2025 Spring](../_pages/NablaSeminar2025Spring.md)
-
-* [2024 Fall](../_pages/NablaSeminar2024Fall.md)
