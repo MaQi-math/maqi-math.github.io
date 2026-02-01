@@ -47,14 +47,14 @@ layout: page
 
 ## Grad Analysis Seminar at Rutgers University
 
-Grad Analysis $\nabla$ Seminar is a graduate seminar at Rutgers University, Department of Mathematics, Orgnized by Qi Ma, Aprameya and Anupam since Nov. 2024.
+Grad Analysis $\nabla$ Seminar is a graduate seminar at Rutgers University, Department of Mathematics, Orgnised by Qi Ma, Aprameya and Anupam since Nov. 2024.
 
-This page is for seminars held in 2025 Fall. This semester we meet regularly on Monday at 4:00 p.m. in the Mathematics Graduate Lounge (Hill 701). We are looking for speakers. Please let me, Aprameya or Anupam know if you want to give a talk.
+This page is for seminars held in 2026 Spring. This semester we meet regularly on Monday at 4:00 p.m. in the Mathematics Graduate Lounge (Hill 701). We are looking for speakers. Please let me, Aprameya or Anupam know if you want to give a talk.
 
 To see seminars in other semesters, please refer to [Nabla](../_pages/NablaSeminar.md).
 
 <div class="seminar-card">
-    <h3>2025 Feb.2nd , Speaker: Junyoung Park</h3>
+    <h3>2026 Feb.2nd , Speaker: Junyoung Park</h3>
     <p><strong>Title: On Eells and Sampson theorem </strong></p>
     <p>Abstract: The idea of using heat type equations to solve problems in geometry has been proven to be an extremely powerful method. In this talk, we will discuss one of the earliest success of such approach, which is the use of harmonic map heat flow to find minimizing harmonic maps in a given homotopy class, under a geometric constraint on the target manifold.</p>
 </div>

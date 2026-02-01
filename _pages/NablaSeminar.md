@@ -54,7 +54,7 @@ to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@r
 Here is the latest information for our seminar:
 
 <div class="seminar-card">
-    <h3>2025 Feb.2nd , Speaker: Junyoung Park</h3>
+    <h3>2026 Feb.2nd , Speaker: Junyoung Park</h3>
     <p><strong>Title: On Eells and Sampson theorem </strong></p>
     <p>Abstract: The idea of using heat type equations to solve problems in geometry has been proven to be an extremely powerful method. In this talk, we will discuss one of the earliest success of such approach, which is the use of harmonic map heat flow to find minimizing harmonic maps in a given homotopy class, under a geometric constraint on the target manifold.</p>
 </div>
