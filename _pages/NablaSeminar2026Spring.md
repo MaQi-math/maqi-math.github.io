@@ -54,6 +54,19 @@ This page is for seminars held in 2026 Spring. This semester we meet regularly o
 To see seminars in other semesters, please refer to [Nabla](../_pages/NablaSeminar.md).
 
 <div class="seminar-card">
+    <h3>2026 Feb.16th , Speaker: Qi Ma</h3>
+    <p><strong>Title: About Liouville’s Theorem – From harmonic function to nonlinear PDEs </strong></p>
+    <p>Abstract: Liouville’s Theorem plays a fundamental role in the uniqueness of solutions. In this talk, we will start from the most trivial case – harmonic function. Classical proof, proof by energy estimation and proof by Fourier transform will be presented. Finally, we will generalize our result to nonlinear equations and introduce the some results of removable singularities in Navier-Stokes.</p>
+</div>
+
+<div class="seminar-card">
+    <h3>2026 Feb.9th , Speaker: Sammy Thiagarajan</h3>
+    <p><strong>Title: Schauder Estimates three different ways. </strong></p>
+    <p>Abstract: Schauder estimates are classical estimates for second order, uniformly elliptic PDEs. Naturally, there are lots of ways to prove them! We will discuss three interesting ways in this talk.</p>
+</div>
+
+
+<div class="seminar-card">
     <h3>2026 Feb.2nd , Speaker: Junyoung Park</h3>
     <p><strong>Title: On Eells and Sampson theorem </strong></p>
     <p>Abstract: The idea of using heat type equations to solve problems in geometry has been proven to be an extremely powerful method. In this talk, we will discuss one of the earliest success of such approach, which is the use of harmonic map heat flow to find minimizing harmonic maps in a given homotopy class, under a geometric constraint on the target manifold.</p>
