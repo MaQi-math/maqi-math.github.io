@@ -54,7 +54,13 @@ This page is for seminars held in 2026 Spring. This semester we meet regularly o
 To see seminars in other semesters, please refer to [Nabla](../_pages/NablaSeminar.md).
 
 <div class="seminar-card">
-    <h3>2026 Feb.16th , Speaker: Qi Ma</h3>
+    <h3>2026 Feb.23rd , Speaker: <a href="https://sites.google.com/view/gh-aprameya/">Aprameya Girish Hebbar</a></h3>
+    <p><strong>Title: Metric Flows: Heat Kernels, F-convergence and Compactness</strong></p>
+    <p>Abstract: In his landmark 2020 work, R. Bamler introduced metric flows which are weak synthetic analogues of smooth flows. Roughly, a metric flow consists of time-slices of metric spaces equipped with heat kernel type measures, providing a "parabolic analogue of a metric space". I will explain how the axioms of metric flows arise naturally from smooth Ricci flow, the convergence notion (“F-convergence”), and if time permits, how this yields a compactness theory for sequences of (super) Ricci flows. </p>
+</div>
+
+<div class="seminar-card">
+    <h3>2026 Feb.16th , Speaker: <a href="https://maqi-math.github.io/">Qi Ma</a> </h3>
     <p><strong>Title: About Liouville’s Theorem – From harmonic function to nonlinear PDEs </strong></p>
     <p>Abstract: Liouville’s Theorem plays a fundamental role in the uniqueness of solutions. In this talk, we will start from the most trivial case – harmonic function. Classical proof, proof by energy estimation and proof by Fourier transform will be presented. Finally, we will generalize our result to nonlinear equations and introduce the some results of removable singularities in Navier-Stokes.</p>
 </div>
