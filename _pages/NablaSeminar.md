@@ -54,9 +54,9 @@ to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@r
 Here is the latest information for our seminar:
 
 <div class="seminar-card">
-    <h3>2026 Feb.23rd , Speaker: <a href="https://sites.google.com/view/gh-aprameya/">Aprameya Girish Hebbar</a></h3>
-    <p><strong>Title: Metric Flows: Heat Kernels, F-convergence and Compactness</strong></p>
-    <p>Abstract: In his landmark 2020 work, R. Bamler introduced metric flows which are weak synthetic analogues of smooth flows. Roughly, a metric flow consists of time-slices of metric spaces equipped with heat kernel type measures, providing a "parabolic analogue of a metric space". I will explain how the axioms of metric flows arise naturally from smooth Ricci flow, the convergence notion (“F-convergence”), and if time permits, how this yields a compactness theory for sequences of (super) Ricci flows. </p>
+    <h3>2026 Apr.13th , Speaker: Priya Kaveri</a></h3>
+    <p><strong>Title: The space of stationary m-dimensional surfaces</strong></p>
+    <p>Abstract: In this talk, I will discuss Brian White’s work on the local structure of the space of immersed m-dimensional surfaces that are stationary for a broad class of elliptic parametric functionals, including the area functional.  After reviewing the first and second variation formulas, I will explain how one accounts for the degeneracy caused by reparametrization invariance, leading to a Banach manifold structure on the space of stationary immersions.  </p>
 </div>
 
 To see more detailed information of our seminar, please come to the pages below:
