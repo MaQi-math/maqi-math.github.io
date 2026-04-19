@@ -54,9 +54,10 @@ to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@r
 Here is the latest information for our seminar:
 
 <div class="seminar-card">
-    <h3>2026 Apr.13th , Speaker: Priya Kaveri</a></h3>
-    <p><strong>Title: The space of stationary m-dimensional surfaces</strong></p>
-    <p>Abstract: In this talk, I will discuss Brian White’s work on the local structure of the space of immersed m-dimensional surfaces that are stationary for a broad class of elliptic parametric functionals, including the area functional.  After reviewing the first and second variation formulas, I will explain how one accounts for the degeneracy caused by reparametrization invariance, leading to a Banach manifold structure on the space of stationary immersions.  </p>
+    <h3>2026 Apr.20th , Speaker: Kangbai Yan</h3>
+    <p><strong>Title: Singular Initial Value Problems for Wave Equations with Applications to Black Holes</strong></p>
+    <p>Abstract: This talk concerns the singular initial value problem for a model nonlinear wave equation near a spacelike singularity. I will begin by briefly recalling the standard local existence theory and breakdown criteria for wave equations with regular initial data, together with Fritz John’s classical finite-time blow-up result. Motivated by explicit singular solutions of the Einstein vacuum equations, such as Kasner and Schwarzschild spacetimes, I will then discuss the model equation
+    $\[ \Box_g \phi = (\partial_t \phi)^2 \]$ on a singular background metric (g). The central question is whether one can prescribe asymptotic behavior at the singular time and construct solutions evolving away from it. I will explain the construction of approximate solutions and the accompanying energy estimates for the remainder. Time permitting, I will also comment on the relation of this problem to the study of black hole interiors, in particular to questions surrounding strong cosmic censorship.  </p>
 </div>
 
 To see more detailed information of our seminar, please come to the pages below:
