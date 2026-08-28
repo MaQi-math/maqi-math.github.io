@@ -1,6 +1,6 @@
 ---
-title: "Nabla Seminar"
-permalink: /nablaseminar/
+title: "Nabla Seminar 2026 Fall"
+permalink: /nablaseminar2026Fall/
 layout: page
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js"></script>
@@ -44,29 +44,15 @@ layout: page
 </style>
 
 
+
 ## Grad Analysis Seminar at Rutgers University
 
-Grad Analysis \(\nabla\) Seminar is a graduate seminar at Rutgers University, Department of Mathematics, organized by Qi Ma, Aprameya, and Anupam.
+Grad Analysis $\nabla$ Seminar is a graduate seminar at Rutgers University, Department of Mathematics, organized by Qi Ma, Aprameya, and Anupam.
 
-Those who wish to receive e-mails for latest information of the seminar may subscribe to our mail-list by sending "Subscribe" 
-to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@rutgers.edu>.
+This page is for seminars held in Fall 2026. We will meet every Monday from 4:00 to 5:00 p.m. in the Mathematics Graduate Lounge (Hill 701).
 
-Here is the latest information for our seminar:
+We are looking for speakers. Please let Qi Ma, Aprameya, or Anupam know if you would like to give a talk.
 
-<div class="seminar-card">
-    <h3>Fall 2026 Meeting Information</h3>
-    <p>In Fall 2026, we will meet every Monday from 4:00 to 5:00 p.m. in the Mathematics Graduate Lounge (Hill 701).</p>
-    <p><strong>Organizers:</strong> Qi Ma, Aprameya, and Anupam</p>
-</div>
+To see seminars in other semesters, please refer to [Nabla](/nablaseminar/).
 
-To see more detailed information of our seminar, please come to the pages below:
-
-* [2026 Fall](/nablaseminar2026Fall/)
-
-* [2026 Spring](../_pages/NablaSeminar2026Spring.md)
-
-* [2025 Fall](../_pages/NablaSeminar2025Fall.md)
-
-* [2025 Spring](../_pages/NablaSeminar2025Spring.md)
-
-* [2024 Fall](../_pages/NablaSeminar2024Fall.md)
+The schedule of talks will be announced here.

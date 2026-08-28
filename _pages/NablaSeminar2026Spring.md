@@ -54,7 +54,13 @@ This page is for seminars held in 2026 Spring. This semester we meet regularly o
 To see seminars in other semesters, please refer to [Nabla](../_pages/NablaSeminar.md).
 
 <div class="seminar-card">
-    <h3>2026 Apr.20th , Speaker: Kangbai Yan</h3>
+    <h3>2026 Apr.27th , Speaker: <a href="https://www.math.rutgers.edu/people/department-directory/detail/344-department-directory/2134-vaysiberg-mark">Mark Vaysiberg</a></h3>
+    <p><strong>Title: Reifenberg Theorems</strong></p>
+    <p>Abstract: Reifenberg’s topological disc theorem says that if a set is close to a k dimensional ball at all scales, then it is biholder to a k dimensional ball. This was used by Cheeger–Colding to study properties of Gromov–Hausdorff limits. After giving an outline of the proof, I will also discuss the discrete and rectifiable Reifenberg theorems of Naber–Valtorta which relax a pointwise assumption to controlling an L2 quantity. It turns out that this L2 hypothesis has many applications to studying sets arising from elliptic problems.</p>
+</div>
+
+<div class="seminar-card">
+    <h3>2026 Apr.20th , Speaker: <a href="https://www.math.rutgers.edu/people/department-directory/detail/344-department-directory/2180-yan-kangbai">Kangbai Yan</a></h3>
     <p><strong>Title: Singular Initial Value Problems for Wave Equations with Applications to Black Holes</strong></p>
     <p>Abstract: This talk concerns the singular initial value problem for a model nonlinear wave equation near a spacelike singularity. I will begin by briefly recalling the standard local existence theory and breakdown criteria for wave equations with regular initial data, together with Fritz John’s classical finite-time blow-up result. Motivated by explicit singular solutions of the Einstein vacuum equations, such as Kasner and Schwarzschild spacetimes, I will then discuss the model equation
     $\[ \Box_g \phi = (\partial_t \phi)^2 \]$ on a singular background metric (g). The central question is whether one can prescribe asymptotic behavior at the singular time and construct solutions evolving away from it. I will explain the construction of approximate solutions and the accompanying energy estimates for the remainder. Time permitting, I will also comment on the relation of this problem to the study of black hole interiors, in particular to questions surrounding strong cosmic censorship.  </p>
