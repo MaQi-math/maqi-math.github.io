@@ -54,6 +54,12 @@ to <grad_analysis-join@email.rutgers.edu> or you could contact Qi Ma at <qi.ma@r
 Here is the latest information for our seminar:
 
 <div class="seminar-card">
+    <h3>2026 Sept.21st , Speaker: <a href="https://sites.google.com/view/ryanmcgowan/home">Ryan McGowan</a></h3>
+    <p><strong>Title: Yau's Liouville Theorem and Evans-Krylov Estimates in the Kähler Setting</strong></p>
+    <p>Abstract: In this talk, I will briefly introduce the complex Monge-Ampère equation and its relation to Kähler metrics and outline Yau's classical $C^2$ and $C^3$ estimates, which were fundamental in resolving the Calabi conjecture. I will then outline how these estimates allow one to prove a Liouville theorem for Kähler metrics. Time permitting, I will discuss how one can bypass the $C^3$ estimates yet still recover an Evans-Krylov $C^{2,\alpha}$ estimate. We shall see how much I actually get through lol.</p>
+</div>
+
+<div class="seminar-card">
     <h3>Fall 2026 Meeting Information</h3>
     <p>In Fall 2026, we will meet every Monday from 4:00 to 5:00 p.m. in the Mathematics Graduate Lounge (Hill 701).</p>
     <p><strong>Organizers:</strong> Qi Ma, Aprameya, and Anupam</p>
