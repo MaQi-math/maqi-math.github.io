@@ -56,6 +56,18 @@ We are looking for speakers. Please let Qi Ma, Aprameya, or Anupam know if you w
 To see seminars in other semesters, please refer to [Nabla](/nablaseminar/).
 
 <div class="seminar-card">
+    <h3>2026 Nov.2nd , Speaker: Qiyuan Song</h3>
+    <p><strong>Title: Łojasiewicz–Simon inequality</strong></p>
+    <p>Abstract: The Łojasiewicz–Simon inequality controls the energy difference near a critical point by its gradient. I will introduce the classical finite dimensional Łojasiewicz inequality, and then discuss how Leon Simon generalized it to the infinite dimensional case on closed Riemannian manifolds, using Liapunov-Schmidt Reduction. Simon's work has application to many problems in calculus of variations and nonlinear PDEs (which can be thought as limits of infinite dimensional gradient flows of analytic functionals).</p>
+</div>
+
+<div class="seminar-card">
+    <h3>2026 Oct.26th , Speaker: Adam</h3>
+    <p><strong>Title: The Tauberian Theorem for Laplace Transforms and a proof of the prime number theorem.</strong></p>
+    <p>Abstract: Abelian theorems are theorems where information about sums or integrals of a function and used to gain information about transformations of the sum or integral. Tauberian theorems are results about the converses of those statements. Where these results excel is in showing integrability on functions that are otherwise poorly behaved. We will prove a Tauberian Theorem for Laplace Transforms. Time Permitting, we’ll also use this result to prove the prime number theorem.</p>
+</div>
+
+<div class="seminar-card">
     <h3>2026 Oct.12th , Speaker: Dana Zilberberg</h3>
     <p><strong>Title: Analytic Fredholm Theory and Transmission Eigenvalues</strong></p>
     <p>Abstract: In the first part, we will introduce Analytic Fredholm Theory, which states that operator-valued analytic functions can only have a discrete set of eigenvalues. We will then introduce the transmission eigenvalue problem in classical scattering theory and establish the discreteness of transmission eigenvalues. Time permitting, we will also discuss the existence of such eigenvalues and their fractional counterparts.</p>
